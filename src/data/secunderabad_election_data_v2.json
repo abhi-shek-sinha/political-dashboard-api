@@ -1,0 +1,437 @@
+{
+    "constituency": {
+        "id": "PC_8",
+        "name": "Secunderabad",
+        "state": "Telangana",
+        "type": "Parliamentary Constituency",
+        "total_electors": 2100000,
+        "demographics": {
+            "total_population": 2200000,
+            "male_population": 1150000,
+            "female_population": 1050000,
+            "literacy_rate": 84.5,
+            "urban_percentage": 100.0,
+            "rural_percentage": 0.0
+        }
+    },
+    "assembly_constituencies": [
+        {
+            "id": "AC_57",
+            "name": "Musheerabad"
+        },
+        {
+            "id": "AC_59",
+            "name": "Amberpet"
+        },
+        {
+            "id": "AC_60",
+            "name": "Khairatabad"
+        },
+        {
+            "id": "AC_61",
+            "name": "Jubilee Hills"
+        },
+        {
+            "id": "AC_62",
+            "name": "Sanathnagar"
+        },
+        {
+            "id": "AC_63",
+            "name": "Nampally"
+        },
+        {
+            "id": "AC_70",
+            "name": "Secunderabad"
+        }
+    ],
+    "historical_parliamentary_elections": [
+        {
+            "year": 2024,
+            "total_votes_polled": 1039041,
+            "turnout_percentage": 48.2,
+            "results": [
+                {
+                    "candidate": "G. Kishan Reddy",
+                    "party": "BJP",
+                    "votes": 473012,
+                    "won": true
+                },
+                {
+                    "candidate": "Danam Nagender",
+                    "party": "INC",
+                    "votes": 423068,
+                    "won": false
+                },
+                {
+                    "candidate": "T. Padma Rao Goud",
+                    "party": "BRS",
+                    "votes": 128680,
+                    "won": false
+                },
+                {
+                    "candidate": "Prakruthi",
+                    "party": "BSP",
+                    "votes": 8150,
+                    "won": false
+                },
+                {
+                    "candidate": "None Of The Above",
+                    "party": "NOTA",
+                    "votes": 7500,
+                    "won": false
+                },
+                {
+                    "candidate": "K. V. Sharma",
+                    "party": "IND",
+                    "votes": 3200,
+                    "won": false
+                },
+                {
+                    "candidate": "Md. Abdul",
+                    "party": "IND",
+                    "votes": 2540,
+                    "won": false
+                }
+            ]
+        },
+        {
+            "year": 2019,
+            "total_votes_polled": 905135,
+            "turnout_percentage": 46.5,
+            "results": [
+                {
+                    "candidate": "G. Kishan Reddy",
+                    "party": "BJP",
+                    "votes": 384780,
+                    "won": true
+                },
+                {
+                    "candidate": "Talasani Sai Kiran Yadav",
+                    "party": "BRS",
+                    "votes": 322666,
+                    "won": false
+                },
+                {
+                    "candidate": "M. Anjan Kumar Yadav",
+                    "party": "INC",
+                    "votes": 173229,
+                    "won": false
+                },
+                {
+                    "candidate": "None Of The Above",
+                    "party": "NOTA",
+                    "votes": 9010,
+                    "won": false
+                },
+                {
+                    "candidate": "Srinivas Rao",
+                    "party": "BSP",
+                    "votes": 8500,
+                    "won": false
+                },
+                {
+                    "candidate": "Syed Ali",
+                    "party": "IND",
+                    "votes": 4200,
+                    "won": false
+                },
+                {
+                    "candidate": "P. Ramakrishna",
+                    "party": "IND",
+                    "votes": 2750,
+                    "won": false
+                }
+            ]
+        },
+        {
+            "year": 2014,
+            "total_votes_polled": 1003769,
+            "turnout_percentage": 53.0,
+            "results": [
+                {
+                    "candidate": "Bandaru Dattatreya",
+                    "party": "BJP",
+                    "votes": 438271,
+                    "won": true
+                },
+                {
+                    "candidate": "M. Anjan Kumar Yadav",
+                    "party": "INC",
+                    "votes": 183536,
+                    "won": false
+                },
+                {
+                    "candidate": "Narla Mohan Rao",
+                    "party": "AIMIM",
+                    "votes": 145120,
+                    "won": false
+                },
+                {
+                    "candidate": "T. Bheem Sen",
+                    "party": "BRS",
+                    "votes": 143847,
+                    "won": false
+                },
+                {
+                    "candidate": "Syed Sajid Ali",
+                    "party": "YSRCP",
+                    "votes": 45187,
+                    "won": false
+                },
+                {
+                    "candidate": "Chaya Ratan Musinipally",
+                    "party": "AAP",
+                    "votes": 11184,
+                    "won": false
+                },
+                {
+                    "candidate": "None Of The Above",
+                    "party": "NOTA",
+                    "votes": 6572,
+                    "won": false
+                }
+            ]
+        },
+        {
+            "year": 2009,
+            "total_votes_polled": 864930,
+            "turnout_percentage": 54.9,
+            "results": [
+                {
+                    "candidate": "Anjan Kumar Yadav M",
+                    "party": "INC",
+                    "votes": 340549,
+                    "won": true
+                },
+                {
+                    "candidate": "Bandaru Dattatreya",
+                    "party": "BJP",
+                    "votes": 170382,
+                    "won": false
+                },
+                {
+                    "candidate": "Srinivasa Sudhish Rambhotla",
+                    "party": "TDP",
+                    "votes": 135604,
+                    "won": false
+                },
+                {
+                    "candidate": "Dr. Dasoju Sravan Kumar",
+                    "party": "PRAP",
+                    "votes": 91414,
+                    "won": false
+                },
+                {
+                    "candidate": "C. V. L. Narasimha Rao",
+                    "party": "LSP",
+                    "votes": 52641,
+                    "won": false
+                },
+                {
+                    "candidate": "M. D. Mahmood Ali",
+                    "party": "BRS",
+                    "votes": 33144,
+                    "won": false
+                },
+                {
+                    "candidate": "Abdus Sattar Mujahed",
+                    "party": "MUL",
+                    "votes": 18720,
+                    "won": false
+                }
+            ]
+        },
+        {
+            "year": 2004,
+            "total_votes_polled": 890123,
+            "turnout_percentage": 52.3,
+            "results": [
+                {
+                    "candidate": "M. Anjan Kumar Yadav",
+                    "party": "INC",
+                    "votes": 435500,
+                    "won": true
+                },
+                {
+                    "candidate": "Bandaru Dattatreya",
+                    "party": "BJP",
+                    "votes": 366742,
+                    "won": false
+                },
+                {
+                    "candidate": "Abdus Sattar",
+                    "party": "AIMIM",
+                    "votes": 54100,
+                    "won": false
+                },
+                {
+                    "candidate": "K. Srinivas",
+                    "party": "BSP",
+                    "votes": 12400,
+                    "won": false
+                },
+                {
+                    "candidate": "Ramesh Kumar",
+                    "party": "IND",
+                    "votes": 8500,
+                    "won": false
+                },
+                {
+                    "candidate": "V. R. Goud",
+                    "party": "IND",
+                    "votes": 7200,
+                    "won": false
+                },
+                {
+                    "candidate": "Syed Pasha",
+                    "party": "IND",
+                    "votes": 5681,
+                    "won": false
+                }
+            ]
+        }
+    ],
+    "historical_assembly_elections": [
+        {
+            "year": 2023,
+            "results": [
+                {
+                    "ac_name": "Musheerabad",
+                    "winning_party": "BRS",
+                    "runner_up_party": "INC",
+                    "margin": 37797
+                },
+                {
+                    "ac_name": "Amberpet",
+                    "winning_party": "BRS",
+                    "runner_up_party": "BJP",
+                    "margin": 24537
+                },
+                {
+                    "ac_name": "Khairatabad",
+                    "winning_party": "BRS",
+                    "runner_up_party": "INC",
+                    "margin": 22010
+                },
+                {
+                    "ac_name": "Jubilee Hills",
+                    "winning_party": "BRS",
+                    "runner_up_party": "INC",
+                    "margin": 16337
+                },
+                {
+                    "ac_name": "Sanathnagar",
+                    "winning_party": "BRS",
+                    "runner_up_party": "BJP",
+                    "margin": 41827
+                },
+                {
+                    "ac_name": "Nampally",
+                    "winning_party": "AIMIM",
+                    "runner_up_party": "INC",
+                    "margin": 2037
+                },
+                {
+                    "ac_name": "Secunderabad",
+                    "winning_party": "BRS",
+                    "runner_up_party": "INC",
+                    "margin": 45240
+                }
+            ]
+        },
+        {
+            "year": 2018,
+            "results": [
+                {
+                    "ac_name": "Musheerabad",
+                    "winning_party": "BRS",
+                    "runner_up_party": "INC",
+                    "margin": 36910
+                },
+                {
+                    "ac_name": "Amberpet",
+                    "winning_party": "BRS",
+                    "runner_up_party": "BJP",
+                    "margin": 1016
+                },
+                {
+                    "ac_name": "Khairatabad",
+                    "winning_party": "BRS",
+                    "runner_up_party": "BJP",
+                    "margin": 28402
+                },
+                {
+                    "ac_name": "Jubilee Hills",
+                    "winning_party": "BRS",
+                    "runner_up_party": "IND",
+                    "margin": 16004
+                },
+                {
+                    "ac_name": "Sanathnagar",
+                    "winning_party": "BRS",
+                    "runner_up_party": "TDP",
+                    "margin": 30651
+                },
+                {
+                    "ac_name": "Nampally",
+                    "winning_party": "AIMIM",
+                    "runner_up_party": "INC",
+                    "margin": 9675
+                },
+                {
+                    "ac_name": "Secunderabad",
+                    "winning_party": "BRS",
+                    "runner_up_party": "INC",
+                    "margin": 45470
+                }
+            ]
+        },
+        {
+            "year": 2014,
+            "results": [
+                {
+                    "ac_name": "Musheerabad",
+                    "winning_party": "BJP",
+                    "runner_up_party": "BRS",
+                    "margin": 27386
+                },
+                {
+                    "ac_name": "Amberpet",
+                    "winning_party": "BJP",
+                    "runner_up_party": "BRS",
+                    "margin": 62810
+                },
+                {
+                    "ac_name": "Khairatabad",
+                    "winning_party": "BJP",
+                    "runner_up_party": "INC",
+                    "margin": 20846
+                },
+                {
+                    "ac_name": "Jubilee Hills",
+                    "winning_party": "TDP",
+                    "runner_up_party": "AIMIM",
+                    "margin": 9242
+                },
+                {
+                    "ac_name": "Sanathnagar",
+                    "winning_party": "TDP",
+                    "runner_up_party": "BRS",
+                    "margin": 27461
+                },
+                {
+                    "ac_name": "Nampally",
+                    "winning_party": "AIMIM",
+                    "runner_up_party": "TDP",
+                    "margin": 17546
+                },
+                {
+                    "ac_name": "Secunderabad",
+                    "winning_party": "BRS",
+                    "runner_up_party": "TDP",
+                    "margin": 25979
+                }
+            ]
+        }
+    ]
+}
